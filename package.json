@@ -10,10 +10,10 @@
     "acute",
     "utilities"
   ],
-  "dependencies": [
+  "dependencies": {
     "architect": "*",
     "mocha": "*"
-  ],
+  },
   "author": "John O'Connor <sax1johno@gmail.com> (http://www.johnwoconnor.com/)",
   "license": "MIT"
 }
