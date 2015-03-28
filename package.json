@@ -1,0 +1,18 @@
+{
+  "name": "acute-utils",
+  "version": "0.0.1",
+  "description": "Non-service-injected utilities that are needed for the aCute framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "acute",
+    "utilities"
+  ],
+  "dependencies": [
+    "architect": "*"
+  ],
+  "author": "John O'Connor <sax1johno@gmail.com> (http://www.johnwoconnor.com/)",
+  "license": "MIT"
+}
