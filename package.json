@@ -1,6 +1,6 @@
 {
   "name": "acute-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Non-service-injected utilities that are needed for the aCute framework",
   "main": "lib/index.js",
   "scripts": {
